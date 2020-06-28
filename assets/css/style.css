@@ -369,9 +369,9 @@ input[type=submit] {
   border: 0 none;
 }
 
-@media screen and (max-width:980px) {
+@media screen and (max-width:768px) {
   #main-container {
-    width: 560px; 
+    width: 100%; 
     margin: -10px 20px 10px 50px;
 
   }
