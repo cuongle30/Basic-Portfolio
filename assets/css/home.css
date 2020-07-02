@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
 }
+#logo{
+margin-top: 5px;
+}
 
 html, body {
   color: #999999;
